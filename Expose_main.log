@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.9)  16 AUG 2019 12:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.12.9)  30 AUG 2019 12:04
 entering extended mode
 **./Expose_main.tex
 (Expose_main.tex
@@ -175,18 +175,18 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (Expose_main.aux)
 \openout1 = `Expose_main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
-LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -296,13 +296,13 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 18.
+LaTeX Font Info:    Try loading font information for U+msa on input line 17.
 
 ("C:\Users\Darja Strahlberg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfont
 s\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 18.
+LaTeX Font Info:    Try loading font information for U+msb on input line 17.
 
 ("C:\Users\Darja Strahlberg\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfont
 s\umsb.fd"
@@ -313,47 +313,51 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 <Images/distribution.jpg, id=8, 331.2375pt x 207.02344pt>
 File: Images/distribution.jpg Graphic file (type jpg)
 <use Images/distribution.jpg>
-Package pdftex.def Info: Images/distribution.jpg  used on input line 33.
+Package pdftex.def Info: Images/distribution.jpg  used on input line 32.
 (pdftex.def)             Requested size: 430.00462pt x 268.76714pt.
+<Images/History.jpg, id=9, 673.01437pt x 378.66469pt>
+File: Images/History.jpg Graphic file (type jpg)
+<use Images/History.jpg>
+Package pdftex.def Info: Images/History.jpg  used on input line 38.
+(pdftex.def)             Requested size: 430.00462pt x 241.94011pt.
  [2 <./Images/distribution.jpg>]
 Overfull \hbox (21.84346pt too wide) in paragraph at lines 46--47
 []\OT1/cmr/m/n/12 The big data anal-y-sis can help an-swer-ing fol-low-ing ques
 -tions: surveil-lance, hypothesis-
  []
 
-
-Overfull \hbox (2.50905pt too wide) in paragraph at lines 56--59
-\OT1/cmr/m/n/12 resistant \OT1/cmr/bx/n/12 Pseu-domonas aerug-i-nosa, \OT1/cmr/
-m/n/12 carbapenem-resistant \OT1/cmr/bx/n/12 En-ter-obac-te-ri-aceae*,
+[3 <./Images/History.jpg>]
+Overfull \hbox (36.9696pt too wide) in paragraph at lines 61--62
+[]\OT1/cmr/bx/n/12 Enterobacteriaceae*, \OT1/cmr/m/n/12 carbapenem-resistant, 3
+rd gen-er-a-tion cephalosporin-resistant [9] 
  []
 
-[3]
-<Images/f65b4498-79f9-47f3-badf-19f7b1ec7312.jpg, id=15, 349.0641pt x 193.9245p
+<Images/f65b4498-79f9-47f3-badf-19f7b1ec7312.jpg, id=16, 349.0641pt x 193.9245p
 t>
 File: Images/f65b4498-79f9-47f3-badf-19f7b1ec7312.jpg Graphic file (type jpg)
 <use Images/f65b4498-79f9-47f3-badf-19f7b1ec7312.jpg>
 Package pdftex.def Info: Images/f65b4498-79f9-47f3-badf-19f7b1ec7312.jpg  used 
-on input line 65.
+on input line 68.
 (pdftex.def)             Requested size: 430.00462pt x 238.88966pt.
- [4 <./Images/f65b4498-79f9-47f3-badf-19f7b1ec7312.jpg>] (Expose_main.bbl
-[5]) [6] (Expose_main.aux) ) 
+[4] [5 <./Images/f65b4498-79f9-47f3-badf-19f7b1ec7312.jpg>] (Expose_main.bbl
+[6]) [7] (Expose_main.aux) ) 
 Here is how much of TeX's memory you used:
- 3024 strings out of 492970
- 43396 string characters out of 3121708
- 111476 words of memory out of 3000000
- 6847 multiletter control sequences out of 15000+200000
+ 3029 strings out of 492970
+ 43498 string characters out of 3121708
+ 112484 words of memory out of 3000000
+ 6851 multiletter control sequences out of 15000+200000
  12750 words of font info for 49 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,6n,27p,614b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,6n,27p,583b,330s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Users/Darja Strahlberg/AppData/Local/Programs/M
 iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Darja Strahlberg/
 AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/
 Users/Darja Strahlberg/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmr17.pfb><C:/Users/Darja Strahlberg/AppData/Local/Programs/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on Expose_main.pdf (6 pages, 182756 bytes).
+Output written on Expose_main.pdf (7 pages, 267027 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 45 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
